@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab 01 - Calculator</string>
+    <string name="act_add">Add</string>
+    <string name="act_sub">Sub</string>
+    <string name="act_mul">Mul</string>
+    <string name="act_div">Div</string>
+    <string name="inf_result">Result:</string>
+    <string name="val_a">Value A:</string>
+    <string name="val_b">Value B:</string>
+    <string name="cos">Cos</string>
+    <string name="sin">Sin</string>
+    <string name="tan">Tan</string>
+</resources>
